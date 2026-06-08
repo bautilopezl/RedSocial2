@@ -29,7 +29,12 @@ public class Diccionario<K, V> {
         String str = clave.toString();
         int hash = 0;
         for (int i = 0; i < str.length(); i++) {
+<<<<<<< HEAD
             hash += str.charAt(i);        }
+=======
+            hash += str.charAt(i);
+        }
+>>>>>>> 22fa96c309a916cfa27d257fb19aabd4971dcee8
         if (hash < 0) hash = -hash;
         return hash % capacidad;
     }
