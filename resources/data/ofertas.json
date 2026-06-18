@@ -1,0 +1,105 @@
+[ {
+  "id" : 1,
+  "titulo" : "Desarrollador Java Senior",
+  "descripcion" : "Buscamos un desarrollador Java con experiencia en Spring Boot y microservicios.",
+  "empleador" : {
+    "id" : 1,
+    "nombreEmpresa" : "TechCorp",
+    "email" : "contacto@techcorp.com",
+    "rubro" : "Tecnologia",
+    "descripcion" : "Lideres en desarrollo de software corporativo.",
+    "password" : "1234"
+  },
+  "activa" : true
+}, {
+  "id" : 2,
+  "titulo" : "Analista de Datos",
+  "descripcion" : "Buscamos un analista de datos con conocimientos en Python y SQL.",
+  "empleador" : {
+    "id" : 2,
+    "nombreEmpresa" : "BankSA",
+    "email" : "rrhh@banksa.com",
+    "rubro" : "Finanzas",
+    "descripcion" : "Innovando en la banca digital.",
+    "password" : "1234"
+  },
+  "activa" : true
+}, {
+  "id" : 3,
+  "titulo" : "Frontend Developer React",
+  "descripcion" : "Buscamos un frontend developer con experiencia en React y TypeScript.",
+  "empleador" : {
+    "id" : 1,
+    "nombreEmpresa" : "TechCorp",
+    "email" : "contacto@techcorp.com",
+    "rubro" : "Tecnologia",
+    "descripcion" : "Lideres en desarrollo de software corporativo.",
+    "password" : "1234"
+  },
+  "activa" : true
+}, {
+  "id" : 4,
+  "titulo" : "DevOps Engineer",
+  "descripcion" : "Buscamos un DevOps con experiencia en Docker, Kubernetes y AWS.",
+  "empleador" : {
+    "id" : 5,
+    "nombreEmpresa" : "GlobalSoft",
+    "email" : "talento@globalsoft.com",
+    "rubro" : "Tecnologia",
+    "descripcion" : "Consultora internacional de software.",
+    "password" : "1234"
+  },
+  "activa" : true
+}, {
+  "id" : 5,
+  "titulo" : "Project Manager IT",
+  "descripcion" : "Buscamos un PM con experiencia en metodologias agiles.",
+  "empleador" : {
+    "id" : 3,
+    "nombreEmpresa" : "HealthTech",
+    "email" : "info@healthtech.com",
+    "rubro" : "Salud",
+    "descripcion" : "Transformando la salud con tecnologia de punta.",
+    "password" : "1234"
+  },
+  "activa" : true
+}, {
+  "id" : 6,
+  "titulo" : "QA Automation Engineer",
+  "descripcion" : "Buscamos un QA con experiencia en Selenium y Cypress.",
+  "empleador" : {
+    "id" : 4,
+    "nombreEmpresa" : "EduOnline",
+    "email" : "jobs@eduonline.com",
+    "rubro" : "Educacion",
+    "descripcion" : "Plataforma lider de educacion online en Latinoamerica.",
+    "password" : "1234"
+  },
+  "activa" : true
+}, {
+  "id" : 8,
+  "titulo" : "OFERTA PRUEBA 1",
+  "descripcion" : "Esta es una Oferta de prueba",
+  "empleador" : {
+    "id" : 1,
+    "nombreEmpresa" : "TechCorp",
+    "email" : "contacto@techcorp.com",
+    "rubro" : "Tecnologia",
+    "descripcion" : "Lideres en desarrollo de software corporativo.",
+    "password" : "1234"
+  },
+  "activa" : true
+}, {
+  "id" : 9,
+  "titulo" : "Docente Nivel Bachelor",
+  "descripcion" : "Buscamos un docente para la materia Ingles. Que tenga un buen manejo de habilidades blandas y con nivel de Ingles A1.",
+  "empleador" : {
+    "id" : 7,
+    "nombreEmpresa" : "Uade Tech",
+    "email" : "tech@uade.com",
+    "rubro" : "Educacion",
+    "descripcion" : "Somos una Universidad",
+    "password" : "1234"
+  },
+  "activa" : true
+} ]

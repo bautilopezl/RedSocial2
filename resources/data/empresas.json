@@ -1,0 +1,43 @@
+[ {
+  "id" : 1,
+  "nombreEmpresa" : "TechCorp",
+  "email" : "contacto@techcorp.com",
+  "rubro" : "Tecnologia",
+  "descripcion" : "Lideres en desarrollo de software corporativo.",
+  "password" : "1234"
+}, {
+  "id" : 2,
+  "nombreEmpresa" : "BankSA",
+  "email" : "rrhh@banksa.com",
+  "rubro" : "Finanzas",
+  "descripcion" : "Innovando en la banca digital.",
+  "password" : "1234"
+}, {
+  "id" : 3,
+  "nombreEmpresa" : "HealthTech",
+  "email" : "info@healthtech.com",
+  "rubro" : "Salud",
+  "descripcion" : "Transformando la salud con tecnologia de punta.",
+  "password" : "1234"
+}, {
+  "id" : 4,
+  "nombreEmpresa" : "EduOnline",
+  "email" : "jobs@eduonline.com",
+  "rubro" : "Educacion",
+  "descripcion" : "Plataforma lider de educacion online en Latinoamerica.",
+  "password" : "1234"
+}, {
+  "id" : 5,
+  "nombreEmpresa" : "GlobalSoft",
+  "email" : "talento@globalsoft.com",
+  "rubro" : "Tecnologia",
+  "descripcion" : "Consultora internacional de software.",
+  "password" : "1234"
+}, {
+  "id" : 7,
+  "nombreEmpresa" : "Uade Tech",
+  "email" : "tech@uade.com",
+  "rubro" : "Educacion",
+  "descripcion" : "Somos una Universidad",
+  "password" : ""
+} ]

@@ -1,0 +1,109 @@
+[ {
+  "id" : 1,
+  "nombre" : "Juan Perez",
+  "email" : "juan@test.com",
+  "profesion" : "Desarrollador Full Stack",
+  "descripcion" : "Apasionado por Java, Spring Boot y arquitecturas limpias.",
+  "password" : "1234",
+  "habilidades" : [ "Java", "SQL", "Spring Boot", "React", "JUnit", "Scrum", "HTML", "CSS", "Node.js", "Git" ],
+  "cantidadHabilidades" : 10
+}, {
+  "id" : 2,
+  "nombre" : "Ana Garcia",
+  "email" : "ana@test.com",
+  "profesion" : "Diseñadora UX/UI",
+  "descripcion" : "Creando experiencias memorables para los usuarios.",
+  "password" : "1234",
+  "habilidades" : [ "Figma", "UX / UI", "Illustrator", "Photoshop" ],
+  "cantidadHabilidades" : 4
+}, {
+  "id" : 3,
+  "nombre" : "Carlos Lopez",
+  "email" : "carlos@test.com",
+  "profesion" : "Data Scientist",
+  "descripcion" : "Transformando datos en decisiones de negocio.",
+  "password" : "1234",
+  "habilidades" : [ "Python", "SQL", "Machine Learning", "Big Data" ],
+  "cantidadHabilidades" : 4
+}, {
+  "id" : 4,
+  "nombre" : "Maria Rodriguez",
+  "email" : "maria@test.com",
+  "profesion" : "DevOps Engineer",
+  "descripcion" : "Automatizando infraestructura y pipelines CI/CD.",
+  "password" : "1234",
+  "habilidades" : [ "Python", "Java", "Docker", "Kubernetes", "Linux", "AWS" ],
+  "cantidadHabilidades" : 6
+}, {
+  "id" : 5,
+  "nombre" : "Pedro Martinez",
+  "email" : "pedro@test.com",
+  "profesion" : "Backend Developer",
+  "descripcion" : "Especialista en APIs REST y microservicios.",
+  "password" : "1234",
+  "habilidades" : [ "Java", "SQL", "Spring Boot", "Node.js", "Scrum" ],
+  "cantidadHabilidades" : 5
+}, {
+  "id" : 6,
+  "nombre" : "Laura Fernandez",
+  "email" : "laura@test.com",
+  "profesion" : "Frontend Developer",
+  "descripcion" : "Creando interfaces modernas con React y TypeScript.",
+  "password" : "1234",
+  "habilidades" : [ "HTML", "CSS", "JavaScript", "TypeScript", "React", "Figma" ],
+  "cantidadHabilidades" : 6
+}, {
+  "id" : 7,
+  "nombre" : "Diego Gonzalez",
+  "email" : "diego@test.com",
+  "profesion" : "Project Manager",
+  "descripcion" : "Gestionando equipos ágiles y entregando valor constante.",
+  "password" : "1234",
+  "habilidades" : [ "Scrum", "Agile", "Kanban", "Comunicacion", "Liderazgo" ],
+  "cantidadHabilidades" : 5
+}, {
+  "id" : 8,
+  "nombre" : "Sofia Torres",
+  "email" : "sofia@test.com",
+  "profesion" : "QA Engineer",
+  "descripcion" : "Asegurando calidad mediante testing automatizado.",
+  "password" : "1234",
+  "habilidades" : [ "Python", "Selenium", "JUnit", "Cypress", "Manual Testing" ],
+  "cantidadHabilidades" : 5
+}, {
+  "id" : 9,
+  "nombre" : "Roberto Acosta",
+  "email" : "roberto@test.com",
+  "profesion" : "Data Engineer",
+  "descripcion" : "Construyendo pipelines de datos escalables.",
+  "password" : "1234",
+  "habilidades" : [ "Python", "SQL", "Big Data", "Spark", "Airflow" ],
+  "cantidadHabilidades" : 5
+}, {
+  "id" : 10,
+  "nombre" : "Valentina Ruiz",
+  "email" : "valentina@test.com",
+  "profesion" : "Diseñadora Gráfica",
+  "descripcion" : "Creando identidades visuales impactantes.",
+  "password" : "1234",
+  "habilidades" : [ "Photoshop", "Illustrator", "After Effects", "Figma" ],
+  "cantidadHabilidades" : 4
+}, {
+  "id" : 11,
+  "nombre" : "Martin Silva",
+  "email" : "martin@test.com",
+  "profesion" : "Backend Developer",
+  "descripcion" : "Construyendo APIs robustas y escalables.",
+  "password" : "1234",
+  "habilidades" : [ "Java", "Python", "Docker", "SQL", "Git" ],
+  "cantidadHabilidades" : 5
+}, {
+  "id" : 12,
+  "nombre" : "Camila Rivas",
+  "email" : "camila@test.com",
+  "profesion" : "Product Manager",
+  "descripcion" : "Transformando ideas en productos exitosos.",
+  "password" : "1234",
+  "habilidades" : [ "Scrum", "Agile", "Kanban", "Comunicacion", "Liderazgo" ],
+  "cantidadHabilidades" : 5
+} ]

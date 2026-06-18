@@ -1,0 +1,101 @@
+[ {
+  "usuario" : {
+    "id" : 1,
+    "nombre" : "Juan Perez",
+    "email" : "juan@test.com",
+    "profesion" : "Desarrollador Full Stack",
+    "descripcion" : "Apasionado por Java, Spring Boot y arquitecturas limpias.",
+    "password" : "1234",
+    "habilidades" : [ "Java", "SQL", "Spring Boot", "React", "JUnit", "Scrum", "HTML", "CSS", "Node.js", "Git" ],
+    "cantidadHabilidades" : 10
+  },
+  "oferta" : {
+    "id" : 8,
+    "titulo" : "OFERTA PRUEBA 1",
+    "descripcion" : "Esta es una Oferta de prueba",
+    "empleador" : {
+      "id" : 1,
+      "nombreEmpresa" : "TechCorp",
+      "email" : "contacto@techcorp.com",
+      "rubro" : "Tecnologia",
+      "descripcion" : "Lideres en desarrollo de software corporativo.",
+      "password" : "1234"
+    },
+    "activa" : true
+  }
+}, {
+  "usuario" : {
+    "id" : 1,
+    "nombre" : "Juan Perez",
+    "email" : "juan@test.com",
+    "profesion" : "Desarrollador Full Stack",
+    "descripcion" : "Apasionado por Java, Spring Boot y arquitecturas limpias.",
+    "password" : "1234",
+    "habilidades" : [ "Java", "SQL", "Spring Boot", "React", "JUnit", "Scrum", "HTML", "CSS", "Node.js", "Git" ],
+    "cantidadHabilidades" : 10
+  },
+  "oferta" : {
+    "id" : 4,
+    "titulo" : "DevOps Engineer",
+    "descripcion" : "Buscamos un DevOps con experiencia en Docker, Kubernetes y AWS.",
+    "empleador" : {
+      "id" : 5,
+      "nombreEmpresa" : "GlobalSoft",
+      "email" : "talento@globalsoft.com",
+      "rubro" : "Tecnologia",
+      "descripcion" : "Consultora internacional de software.",
+      "password" : "1234"
+    },
+    "activa" : true
+  }
+}, {
+  "usuario" : {
+    "id" : 1,
+    "nombre" : "Juan Perez",
+    "email" : "juan@test.com",
+    "profesion" : "Desarrollador Full Stack",
+    "descripcion" : "Apasionado por Java, Spring Boot y arquitecturas limpias.",
+    "password" : "1234",
+    "habilidades" : [ "Java", "SQL", "Spring Boot", "React", "JUnit", "Scrum", "HTML", "CSS", "Node.js", "Git" ],
+    "cantidadHabilidades" : 10
+  },
+  "oferta" : {
+    "id" : 5,
+    "titulo" : "Project Manager IT",
+    "descripcion" : "Buscamos un PM con experiencia en metodologias agiles.",
+    "empleador" : {
+      "id" : 3,
+      "nombreEmpresa" : "HealthTech",
+      "email" : "info@healthtech.com",
+      "rubro" : "Salud",
+      "descripcion" : "Transformando la salud con tecnologia de punta.",
+      "password" : "1234"
+    },
+    "activa" : true
+  }
+}, {
+  "usuario" : {
+    "id" : 1,
+    "nombre" : "Juan Perez",
+    "email" : "juan@test.com",
+    "profesion" : "Desarrollador Full Stack",
+    "descripcion" : "Apasionado por Java, Spring Boot y arquitecturas limpias.",
+    "password" : "1234",
+    "habilidades" : [ "Java", "SQL", "Spring Boot", "React", "JUnit", "Scrum", "HTML", "CSS", "Node.js", "Git" ],
+    "cantidadHabilidades" : 10
+  },
+  "oferta" : {
+    "id" : 1,
+    "titulo" : "Desarrollador Java Senior",
+    "descripcion" : "Buscamos un desarrollador Java con experiencia en Spring Boot y microservicios.",
+    "empleador" : {
+      "id" : 1,
+      "nombreEmpresa" : "TechCorp",
+      "email" : "contacto@techcorp.com",
+      "rubro" : "Tecnologia",
+      "descripcion" : "Lideres en desarrollo de software corporativo.",
+      "password" : "1234"
+    },
+    "activa" : true
+  }
+} ]
