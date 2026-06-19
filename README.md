@@ -132,10 +132,10 @@ Jackson 2.17.0 mapea todas las entidades a JSON en `resources/data/`:
 ```powershell
 # Limpiar y compilar
 Remove-Item -Recurse -Force out
-javac -d out -sourcepath src -cp "lib\jackson-core-2.17.0.jar;lib\jackson-databind-2.17.0.jar;lib\jackson-annotations-2.17.0.jar" src\ui\Main.java
+javac -d out -sourcepath src -cp "lib\jackson-core-2.17.0.jar;lib\jackson-databind-2.17.0.jar;lib\jackson-annotations-2.17.0.jar" src\Main.java
 
 # Ejecutar
-java -cp "out;lib\*" ui.Main
+java -cp "out;lib\*" Main
 ```
 
 ---

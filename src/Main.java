@@ -1,5 +1,3 @@
-package ui;
-
 import implementaciones.DiccionarioABB;
 import modelo.Usuario;
 import ui.layout.MainFrame;
