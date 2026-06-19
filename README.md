@@ -4,6 +4,15 @@ Sistema de red social profesional desarrollado íntegramente en Java Swing con e
 
 ---
 
+## Grupo 11
+
+| Integrante |
+|---|
+| Bautista Lopez Lopez |
+| Octavio Ficer |
+
+---
+
 ## Stack
 
 | Capa | Tecnología |
