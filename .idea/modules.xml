@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Etapa2.iml" filepath="$PROJECT_DIR$/Etapa2.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/RedSocial2.iml" filepath="$PROJECT_DIR$/.idea/RedSocial2.iml" />
->>>>>>> 22fa96c309a916cfa27d257fb19aabd4971dcee8
     </modules>
   </component>
 </project>
